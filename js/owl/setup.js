@@ -15,6 +15,3 @@ $('.owl-carousel').owlCarousel({
     }
 })
 
-. cookie='cookie1 = valor1; SameSite = Lax ';
-
-. cookie  =  'cookie2 = valor2; SameSite = Nenhum; Seguro ' ;
